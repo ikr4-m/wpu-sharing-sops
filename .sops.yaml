@@ -1,0 +1,5 @@
+creation_rules:
+  - path_regex: .*
+    key_groups:
+      - pgp:
+          - C17871AB6DC96611455F74A66FB6C42C7F7CAD24
